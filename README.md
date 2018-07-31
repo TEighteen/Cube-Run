@@ -1,0 +1,2 @@
+# Cube-Run
+Cube Run is based off the popular flash games 'Run' and 'Run 2'. Though similar, Cube Run has the addictions of Collectables and the possibility of weapons to shoot down obstacles. Cube Run may also get Multiplayer support in the future. The game will suppot tbe following Operating Systems: Windows, MAC, Linux and android which is in early stages. iOS support will be coming at a later date
